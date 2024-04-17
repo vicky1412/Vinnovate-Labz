@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "870396347709",
+    "project_id": "appikorn-beema",
+    "storage_bucket": "appikorn-beema.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:870396347709:android:2a1d2739c2ea304e2f7154",
+        "android_client_info": {
+          "package_name": "com.example.vinnovate_labz"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCCPHMXL0LVEn_51hkI-vbDLB9LfRo2Mms"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
